@@ -110,7 +110,7 @@ jobs:
           pwd
           echo "Checking Single File Directory"
           ls -ltr single_file
-          echo "checking Directory Artifacts
+          echo "checking Directory Artifacts"
           ls -ltr download_directory
 
           
